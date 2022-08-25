@@ -2,7 +2,7 @@
 """
 Created on Sat Aug 29 13:07:00 2020
 
-@author: santo
+@author: Shiv Pratap Singh Rathore
 """
 
 import tkinter as tk
@@ -145,8 +145,8 @@ def clickButton():
             
                 
     
-      out=(entries[0].data)
-      t.insert(tk.END,out)
+    out=(entries[0].data)
+    t.insert(tk.END,out)
         
 
 
