@@ -129,9 +129,9 @@ def clickButton():
 				    if z==1:
 					    break
 			    j.data=b
-     
-   out=(entries[0].data)
-   t.insert(tk.END,out)
+			
+	out=(entries[0].data)
+	t.insert(tk.END,out)
  
 b=tk.Button(master,text="Solve",command=clickButton,font=("Helvetica",32)).grid(row=13,column=1)
 
