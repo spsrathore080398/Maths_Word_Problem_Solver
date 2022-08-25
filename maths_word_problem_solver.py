@@ -144,11 +144,9 @@ def clickButton():
                 
             
                 
-    if text=="What is 40 percentage of 160":
-        t.insert(tk.END,"64")
-    else:
-        out=(entries[0].data)
-        t.insert(tk.END,out)
+    
+      out=(entries[0].data)
+      t.insert(tk.END,out)
         
 
 
