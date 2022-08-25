@@ -145,8 +145,8 @@ def clickButton():
             
                 
     
-    out=(entries[0].data)
-    t.insert(tk.END,out)
+  out=(entries[0].data)
+  t.insert(tk.END,out)
         
 
 
