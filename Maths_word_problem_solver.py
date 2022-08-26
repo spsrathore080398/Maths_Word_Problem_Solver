@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug 25 22:06:17 2022
-
-@author: HP
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Sat Aug 29 13:07:00 2020
 
 @author: Shiv Pratap Singh Rathore
